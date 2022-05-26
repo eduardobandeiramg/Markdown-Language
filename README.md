@@ -51,7 +51,7 @@ Depois de definir | as colunas da tabela | na primeira linha,
 são feitas | as divisões entre linhas | na segunda linha.
 Depois disso, | cada linha separada com colunas verticais | representam uma linha da coluna.
 
-**Linhas de comando:**
+**Linha de comando ou linha única de código:**
 `Linhas escritas entre crase representam comandos`
 
 **Linhas de código:**
