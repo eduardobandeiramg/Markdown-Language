@@ -46,19 +46,20 @@ Basta arrastar, colar ou ![Escrever a descrição entre colchetes após exclama�
 
 **Tabelas:**
 Título da coluna 1 | Título da coluna 2 | Título da coluna 3
----|---|---|
-Depois de definir | as colunas da tabela | na primeira linha,
-são feitas | as divisões entre linhas | na segunda linha.
-Depois disso, | cada linha separada com colunas verticais | representam uma linha da coluna.
+:---|---:|:---:|
+As colunas da tabela | são definidas com seus titúlos | entre barras verticais.
+Na linha logo abaixo | deve-se finalizar a criação das colunas | com 3 traços + coluna vertical para cada coluna.
+Alinhar à esquerda: :--- | Alinhar à direita: ---: | Alinhar ao centro: :---: (na segunda linha de definição das colunas)
 
 **Linha de comando ou linha única de código:**
 `Linhas escritas entre crase representam comandos`
 
 **Linhas de código:**
-```
+```java
 public class LinhasDeComando{
   public static void main (String[] args){
-    System.out.println("Linhas de código ficam entre 3 crases no início e 3 crases no fim!");
+    System.out.println("Linhas de código ficam entre 3 crases no início e 3 crases no fim! Também pode usar /~~~~ no inicio e no fim!");
+    System.out.println("Logo após o /``` ou o /~~~~ pode-se especificar a linguagem do trecho de código");
   }
 }
 ```
