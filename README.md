@@ -36,11 +36,13 @@
 - [ ] Terceira tarefa (traço + espaço + colchetes com espaço dentro)
 - [x] Quarta tarefa feita (traço + espaços + 'x' entre colchetes)
 
-**Imagens:**
-Basta arrastar, colar ou [Escrever a descrição entre colchetes e o link da imagem entre parentesis]()
-
 **Links:**
 [Texto entre colchetes e link entre parentesis](https://github.com/eduardobandeiramg)
+ou
+link direto entre chaves: <https://github.com8eduardobandeiramg>
+
+**Imagens:**
+Basta arrastar, colar ou ![Escrever a descrição entre colchetes após exclamação e o link da imagem entre parentesis]()
 
 **Tabelas:**
 Título da coluna 1 | Título da coluna 2 | Título da coluna 3
