@@ -3,6 +3,8 @@
 ### Título de terceiro nível
 #### E assim sucessivamente
 
+Quebras de linha são feitas com shift + enter
+Ou com dois espaços ao final da linha. Ou com o br do html </br>Apenas enter não quebra linhas
 *Itálico*   _Itálico_ 
 
 **Negrito** __Negrito__ 
@@ -71,7 +73,7 @@ public class LinhasDeComando{
   }
 }
 ```
-`A linguagem, no caso de várias linhas, pode ser especificada. Basta escrever 3 o nome da linguagem logo após as 3 primeiras crases.`
+`A linguagem, no caso de várias linhas, pode ser especificada. Basta escrever o nome da linguagem logo após as 3 primeiras crases.`
 
 `Exemplo em Swift:`
 
