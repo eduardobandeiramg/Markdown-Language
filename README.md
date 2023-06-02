@@ -3,11 +3,9 @@
 ### Título de terceiro nível
 #### E assim sucessivamente
 
-Quebras de 
-linha são feitas com 2 enters
+Quebras de linha são feitas com o operador br do html </br>Ou com espaços após o final da linha.    Ou com barra invertida\Para novo parágrafo, usa-se dois espaços. 
 
-
-Ou com o br do html </br>Apenas enter não quebra linhas
+Nesse caso o espaço entre linhas será um pouco maior, indicando novo parágrafo
 
 
 *Itálico*   _Itálico_ 
