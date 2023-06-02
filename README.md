@@ -41,13 +41,13 @@
 ou
 link direto entre chaves: <https://github.com8eduardobandeiramg>
 
-[CheatSheet oficial da linguagem markdown: ](https://www.markdownguide.org/cheat-sheet/)
+[CheatSheet oficial da linguagem markdown](https://www.markdownguide.org/cheat-sheet/)
 
-[Syntaxe extendida da linguagem markdown: ](https://www.markdownguide.org/extended-syntax/)
+[Syntaxe extendida da linguagem markdown](https://www.markdownguide.org/extended-syntax/)
 
-[Entendendo os usos da linguagem: ](https://www.markdownguide.org/getting-started/)
+[Entendendo os usos da linguagem](https://www.markdownguide.org/getting-started/)
 
-[Site oficial: ](https://www.markdownguide.org)
+[Site oficial](https://www.markdownguide.org)
 
 **Imagens:**
 Basta arrastar, colar ou ![Escrever a descrição entre colchetes após exclamação e o link da imagem entre parentesis]()
@@ -62,7 +62,7 @@ Alinhar à esquerda: :--- | Alinhar à direita: ---: | Alinhar ao centro: :---: 
 **Linha de comando ou linha única de código:**
 `Linhas escritas entre crase representam comandos`
 
-**Linhas de código:**
+**Múltipas Linhas de código:**
 ```java
 public class LinhasDeComando{
   public static void main (String[] args){
@@ -71,6 +71,16 @@ public class LinhasDeComando{
   }
 }
 ```
+`A linguagem, no caso de várias linhas, pode ser especificada. Basta escrever 3 o nome da linguagem logo após as 3 primeiras crases.`
+``
+`Exemplo em Swift:`
+
+```swift
+var nome = "Eduardo"
+var repositorio = "Github"
+if expectador == bacana{
+print("Olá, meu nome é \(nome). Seja bem vindo ao meu repositório do \(repositorio)")
+}
 
 **Emojis:**
 Basta escrever dois pontos + o nome do emoji 👨‍🎓 🇧🇷 🐮 ⛷️
