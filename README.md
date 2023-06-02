@@ -42,8 +42,11 @@ ou
 link direto entre chaves: <https://github.com8eduardobandeiramg>
 
 [CheatSheet oficial da linguagem markdown: ](https://www.markdownguide.org/cheat-sheet/)
+
 [Syntaxe extendida da linguagem markdown: ](https://www.markdownguide.org/extended-syntax/)
+
 [Entendendo os usos da linguagem: ](https://www.markdownguide.org/getting-started/)
+
 [Site oficial: ](https://www.markdownguide.org)
 
 **Imagens:**
