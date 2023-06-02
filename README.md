@@ -3,8 +3,8 @@
 ### Título de terceiro nível
 #### E assim sucessivamente
 
-Quebras de linha são feitas com shift + enter
-Ou com dois espaços ao final da linha. Ou com o br do html </br>Apenas enter não quebra linhas
+Quebras de 
+linha são feitas com shift + enterOu com dois espaços ao final da linha. Ou com o br do html </br>Apenas enter não quebra linhas
 *Itálico*   _Itálico_ 
 
 **Negrito** __Negrito__ 
