@@ -72,7 +72,7 @@ public class LinhasDeComando{
 }
 ```
 `A linguagem, no caso de várias linhas, pode ser especificada. Basta escrever 3 o nome da linguagem logo após as 3 primeiras crases.`
-``
+
 `Exemplo em Swift:`
 
 ```swift
@@ -81,6 +81,7 @@ var repositorio = "Github"
 if expectador == bacana{
 print("Olá, meu nome é \(nome). Seja bem vindo ao meu repositório do \(repositorio)")
 }
+```
 
 **Emojis:**
 Basta escrever dois pontos + o nome do emoji 👨‍🎓 🇧🇷 🐮 ⛷️
